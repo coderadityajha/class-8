@@ -1,9 +1,5 @@
-Got it ✅
-I’ll create a clean **README.md style index** from the contents page you shared.
 
----
-
-# 📚 NCERT Class VIII – Contents Index
+# 📚 Contents Index
 
 ## **Our Pasts – III**
 
@@ -40,7 +36,3 @@ I’ll create a clean **README.md style index** from the contents page you share
 7. Constitutional Protection to the Marginalised Sections (C-73)
 8. Public Conveniences and the Role of the Government (C-82)
 9. Law and Social Justice (C-89)
-
----
-
-👉 Do you want me to make this **README.md clickable index** (with Markdown links to file paths like `/Our-Pasts-III/H-3.md` etc.), so you can directly link chapters if you split them into files?
